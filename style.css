@@ -59,7 +59,7 @@ body {
     position: absolute;
     top: 3rem;
     padding: 1rem 1rem;
-    width: 20rem;
+    height: 24rem;
     cursor: pointer;
 }
 
@@ -72,12 +72,13 @@ body {
 }
 
 .mind-area .mind-title {
-    margin-top: 7rem;
+    margin-top: 5rem;
 }
 
 .mind-area .mind {
-    margin-top: 1.7rem;
-    font-size: 3.5rem;
+    max-width: 80%;
+    margin-top: 1.8rem;
+    font-size: 3rem;
     font-weight: bold;
     color: #f6483b
 }
