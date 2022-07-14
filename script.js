@@ -58,7 +58,7 @@ const mindArr = [
   "W polityce ważne są tylko instrumenty nacisku.",
   "Polska musi mieć zdolność kontroli dominacji eskalacji w konfilkcie zbrojnym.",
   "Efektory to koncentracja siły kinetycznej w określonym miejscu.",
-  "Obwód Kaliningradzki wisi nad doliną Wisły, kierunkując się na przesmyk suwalski .",
+  "Obwód Kaliningradzki wisi nad doliną Wisły, kierunkując się na Przesmyk Suwalski .",
   "Zabezpieczenie przestrzeni Białorusi daje Polsce bufor bezpieczeństwa.",
   "Rewizja doktryny Giedrojcia i Miroszewskiego jest potrzebna od zaraz.",
   "Egzekucja władzy jest ściśle związana z przestrzenią i zasobami, które ją opasają.",
@@ -67,23 +67,7 @@ const mindArr = [
   "Amerykanie są ojcem porządku światowego.",
   "Myśl wojska nie powinna być jak służka, która niesie treny sukni za wojną, tylko ją wyprzedzać.",
   "Wojna symetryczna może być wojną koalicyjną lub wojną samodzielną.",
-  "Gałacz jest jednym z kluczowych punktów na pomoście bałtycko-czarnomorskim.",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
-  ".",
+  "Gałacz jest jednym z kluczowych punktów na pomoście bałtycko-czarnomorskim."
 ];
 
 const shakePhoto = () => {
