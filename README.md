@@ -6,7 +6,7 @@ Small script who draw one of a 65 real and authentic dr Bartosiak quotes!
 Language of website is a Polish, is responsive for mobile, tablet and desktop.
 
 # How it looks?
-(https://i.imgur.com/kAKjxNN.png)
+!(https://i.imgur.com/kAKjxNN.png)
 
 # Check this out!
 [Click here!](https://emarcins.github.io/drBartosiakQuotes)
