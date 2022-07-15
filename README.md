@@ -2,7 +2,7 @@
 Generator of **dr Jacek Bartosiak quotes!**  Specialist of geostrategy and geopolitics from Poland.
 
 # What's this?
-Small script who draw one of a 65 real and authentic dr Bartosiak quotes!</br>
+A little script that draws one of 65 real and authentic quotes from Dr. Bartosiak!!</br>
 Language of website is a Polish, is responsive for mobile, tablet and desktop.
 
 # How it looks? 🖼️
