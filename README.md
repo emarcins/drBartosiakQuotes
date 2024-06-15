@@ -1,5 +1,5 @@
 # drBartosiakQuotes :file_folder:
-Generator of ** 	~~dr~~ mgr Jacek Bartosiak quotes! **  Specialist of geostrategy and geopolitics from Poland.
+Generator of ~~dr~~ Jacek Bartosiak quotes!  Specialist of geostrategy and geopolitics from Poland.
 
 # What's this? :question:
 A little script that draws one of 65 real and authentic quotes from mgr Bartosiak!!</br>
