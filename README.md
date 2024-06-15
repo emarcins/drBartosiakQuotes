@@ -1,8 +1,8 @@
 # drBartosiakQuotes :file_folder:
-Generator of **dr Jacek Bartosiak quotes!**  Specialist of geostrategy and geopolitics from Poland.
+Generator of **	~~dr~~ mgr Jacek Bartosiak quotes!**  Specialist of geostrategy and geopolitics from Poland.
 
 # What's this? :question:
-A little script that draws one of 65 real and authentic quotes from Dr Bartosiak!!</br>
+A little script that draws one of 65 real and authentic quotes from mgr Bartosiak!!</br>
 Language of website is a Polish, is responsive for mobile, tablet and desktop.
 
 # What's new? :question:
