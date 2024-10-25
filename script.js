@@ -121,3 +121,5 @@ const generateMind = () => {
 };
 
 doctor.addEventListener("click", shakePhoto);
+
+window.onload = generate;
